@@ -6,11 +6,7 @@ This repository contains the code for a Streamlit web application that classifie
 
 ## 🚀 Deployed Demo
 
-**[>> View the live demo here <<](https://your-streamlit-app-url.streamlit.app)**
-
-*(Replace the link above with your actual Streamlit app URL after deployment)*
-
-
+**[>> View the live demo here <<](https://vit-food-classifier.streamlit.app/#food-101-image-classifier)**
 
 ---
 
@@ -41,7 +37,7 @@ To run this application on your own machine, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourGitHubUsername/vit-food-classifier.git](https://github.com/YourGitHubUsername/vit-food-classifier.git)
+    git clone [https://github.com/Usman3660/vit-food-classifier.git]
     cd vit-food-classifier
     ```
 
